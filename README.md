@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sANaaCreator
-- 👀 I’m interested in web design & programmig
+- 👀 I’m interested in web design & programming
 
 <!---
 sANaaCreator/sANaaCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
